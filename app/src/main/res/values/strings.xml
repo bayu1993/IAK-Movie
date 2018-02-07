@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IAK Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">kamu ada di halaman home</string>
+    <string name="toprate">kamu ada di halaman top ratting</string>
+    <string name="newmovie">kamu ada di halaman new movie</string>
+
+</resources>
