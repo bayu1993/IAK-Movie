@@ -59,7 +59,7 @@
             android:layout_below="@id/tv_subtitle_home"
             android:layout_marginTop="8dp"
             android:layout_toRightOf="@id/iv_cover_home"
-            android:maxLines="4"
+            android:maxLines="3"
             android:paddingEnd="16dp"
             android:text="movie description movie"
             android:textColor="@color/colorGreyLight"
